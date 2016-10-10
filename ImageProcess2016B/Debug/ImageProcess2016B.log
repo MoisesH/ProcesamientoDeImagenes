@@ -1,0 +1,8 @@
+﻿  ImageProcess2016B.cpp
+c:\users\moiseshdez\documents\visual studio 2015\projects\imageprocess2016b\imageprocess2016b\imageprocess2016b.cpp(167): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\moiseshdez\documents\visual studio 2015\projects\imageprocess2016b\imageprocess2016b\imageprocess2016b.cpp(144): warning C4101: 'hdc': unreferenced local variable
+c:\users\moiseshdez\documents\visual studio 2015\projects\imageprocess2016b\imageprocess2016b\imageprocess2016b.cpp(143): warning C4101: 'ps': unreferenced local variable
+c:\users\moiseshdez\documents\visual studio 2015\projects\imageprocess2016b\imageprocess2016b\imageprocess2016b.cpp(142): warning C4101: 'wmEvent': unreferenced local variable
+c:\users\moiseshdez\documents\visual studio 2015\projects\imageprocess2016b\imageprocess2016b\imageprocess2016b.cpp(142): warning C4101: 'wmId': unreferenced local variable
+  ImageProcess2016B.vcxproj -> C:\Users\MoisesHdez\Documents\Visual Studio 2015\Projects\ImageProcess2016B\Debug\ImageProcess2016B.exe
+  ImageProcess2016B.vcxproj -> C:\Users\MoisesHdez\Documents\Visual Studio 2015\Projects\ImageProcess2016B\Debug\ImageProcess2016B.pdb (Full PDB)
